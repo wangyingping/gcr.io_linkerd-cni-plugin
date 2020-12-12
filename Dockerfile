@@ -1,1 +1,1 @@
-FROM gcr.io/linkerd-io/cni-plugin:stable-2.8.1
+FROM ghcr.io/linkerd/cni-plugin:stable-2.9.1
